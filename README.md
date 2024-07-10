@@ -9,3 +9,5 @@ Docker image with the latest stable versions of C++ development tools.
 - Ninja
 - Bazel (using Bazelisk)
 - Valgrind 3.23.0
+
+[Corresponding DockerHub](https://hub.docker.com/r/happycerberus/devenv-stable)
